@@ -1,3 +1,5 @@
+package .vscode;
+
 public class sudoko {
     public static boolean isSafe(int sudoku[][], int row, int col, int digit){
         // column
