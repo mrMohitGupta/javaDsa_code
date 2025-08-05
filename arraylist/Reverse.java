@@ -1,6 +1,7 @@
+package arraylist;
+
 import java.util.*;
 import java.util.ArrayList;
-package arraylist;
 
 public class Reverse {
      
